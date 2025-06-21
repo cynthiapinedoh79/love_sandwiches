@@ -1,3 +1,9 @@
-gspread
-google-auth
-google-auth-oauthlib
+cachetools==5.5.2
+google-auth==2.40.3
+google-auth-oauthlib==1.2.2
+gspread==6.2.1
+oauthlib==3.3.1
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+requests-oauthlib==2.0.0
+rsa==4.9.1
